@@ -1,7 +1,7 @@
 Alice
 =====
 
-Native Servlet Container
+Native Servlet Container: Consist in a Apache module that allows run J2EE applications as native binaries
 
 Build
 =====
